@@ -1,0 +1,19 @@
+c:\users\vkmetals\documents\visual studio 2015\Projects\RandomLabelMove\RandomLabelMove\bin\Debug\RandomLabelMove.exe.config
+c:\users\vkmetals\documents\visual studio 2015\Projects\RandomLabelMove\RandomLabelMove\bin\Debug\RandomLabelMove.exe
+c:\users\vkmetals\documents\visual studio 2015\Projects\RandomLabelMove\RandomLabelMove\bin\Debug\RandomLabelMove.pdb
+c:\users\vkmetals\documents\visual studio 2015\Projects\RandomLabelMove\RandomLabelMove\obj\Debug\RandomLabelMove.Form1.resources
+c:\users\vkmetals\documents\visual studio 2015\Projects\RandomLabelMove\RandomLabelMove\obj\Debug\RandomLabelMove.Properties.Resources.resources
+c:\users\vkmetals\documents\visual studio 2015\Projects\RandomLabelMove\RandomLabelMove\obj\Debug\RandomLabelMove.csproj.GenerateResource.Cache
+c:\users\vkmetals\documents\visual studio 2015\Projects\RandomLabelMove\RandomLabelMove\obj\Debug\RandomLabelMove.exe
+c:\users\vkmetals\documents\visual studio 2015\Projects\RandomLabelMove\RandomLabelMove\obj\Debug\RandomLabelMove.pdb
+c:\users\vkmetals\documents\visual studio 2015\Projects\RandomLabelMove\RandomLabelMove\obj\Debug\RandomLabelMove.csprojResolveAssemblyReference.cache
+E:\c# programs\Practice\RandomLabelMove\RandomLabelMove\bin\Debug\RandomLabelMove.exe.config
+E:\c# programs\Practice\RandomLabelMove\RandomLabelMove\bin\Debug\RandomLabelMove.exe
+E:\c# programs\Practice\RandomLabelMove\RandomLabelMove\bin\Debug\RandomLabelMove.pdb
+E:\c# programs\Practice\RandomLabelMove\RandomLabelMove\obj\Debug\RandomLabelMove.Form1.resources
+E:\c# programs\Practice\RandomLabelMove\RandomLabelMove\obj\Debug\RandomLabelMove.Properties.Resources.resources
+E:\c# programs\Practice\RandomLabelMove\RandomLabelMove\obj\Debug\RandomLabelMove.csproj.GenerateResource.Cache
+E:\c# programs\Practice\RandomLabelMove\RandomLabelMove\obj\Debug\RandomLabelMove.csproj.CoreCompileInputs.cache
+E:\c# programs\Practice\RandomLabelMove\RandomLabelMove\obj\Debug\RandomLabelMove.exe
+E:\c# programs\Practice\RandomLabelMove\RandomLabelMove\obj\Debug\RandomLabelMove.pdb
+E:\c# programs\Practice\RandomLabelMove\RandomLabelMove\obj\Debug\RandomLabelMove.csprojResolveAssemblyReference.cache
